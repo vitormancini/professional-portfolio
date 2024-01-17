@@ -13,15 +13,15 @@ export class ExperiencesComponent {
   public arrayExperiences = signal<IExperiences[]>([
     {
       summary: {
-        strong: "Test Engineering Intern",
-        p: "Dell Technologies | July 2021 - November 2021",
+        strong: "Quality Control Specialist",
+        p: "Dell Technologies | November 2021 - Present",
       },
       text: "<p>Descrição do cargo aqui</p>"
     },
     {
       summary: {
-        strong: "Quality Control Specialist",
-        p: "Dell Technologies | November 2021 - Present",
+        strong: "Test Engineering Intern",
+        p: "Dell Technologies | July 2021 - November 2021",
       },
       text: "<p>Descrição do cargo aqui</p>"
     },
